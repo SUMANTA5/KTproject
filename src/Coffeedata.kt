@@ -1,0 +1,1 @@
+class Coffeedata(val Black: Boolean, val Sugar:Int)
